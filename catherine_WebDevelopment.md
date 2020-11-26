@@ -69,7 +69,7 @@ app.get(‘’,(req,res)=>{
   
    
  
- ## Explanation :
+ ## :memo: Explanation :
  * The get() function has a path name and a callback fuction with 2 arguments namely **req**-request and **res**-response.
 * The send() function is used to display it to the user.Here both HTML or JSON can be used to send
  
@@ -102,15 +102,15 @@ res.send({
 | path |   to deal with file paths |
 | querystring |  to deal with query string   |
 
-#### SYNTAX:
+####  :pushpin: SYNTAX:
 >const  module = require('module_name');
 
-core modules are complex compared to third-party modules,but anyway you dont need internet to install like third-party module
+:pill: core modules are complex compared to third-party modules,but anyway you don't need internet to install like third-party module
 ### Thus if you like follow me on <br>
 
-[![](https://github.com/catherinekennedy/images/blob/main/githun.png =100x20)](https://github.com/catherinekennedy")<br>
-[![](https://github.com/catherinekennedy/images/blob/main/insta.jpg =100x20)](https://www.instagram.com/cather_ine_kenny)<br>
-[![](https://github.com/catherinekennedy/images/blob/main/linkedin.png =100x20)](https://www.linkedin.com/in/catherine-robin-kennedy)<br>
+[![](https://github.com/catherinekennedy/images/blob/main/githun.png)](https://github.com/catherinekennedy")<br>
+[![](https://github.com/catherinekennedy/images/blob/main/insta.jpg)](https://www.instagram.com/cather_ine_kenny)<br>
+[![](https://github.com/catherinekennedy/images/blob/main/linkedin.png)](https://www.linkedin.com/in/catherine-robin-kennedy)<br>
 
 
 
