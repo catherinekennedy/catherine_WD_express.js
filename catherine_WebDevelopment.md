@@ -58,7 +58,7 @@ app.get(‘’,(req,res)=>{
 >http://localhost:4000
    to see your output.
    
-   ## you have made your :thumbsup: own server. congrats :raised_hands:
+   ## you have made your :thumbsup: own server.:trophy:  congrats :raised_hands:
    
   ### THUS THE FINAL OUTPUT::point_down:
 <img src="https://github.com/catherinekennedy/images/blob/main/1output.jpeg?raw=true" >
@@ -106,11 +106,11 @@ res.send({
 >const  module = require('module_name');
 
 :pill: core modules are complex compared to third-party modules,but anyway you don't need internet to install like third-party module
-### Thus if you like follow me on <br>
+### :computer: Thus if you like follow me on  :computer:<br>
 
- <a href="https://www.linkedin.com/in/catherine-robin-kennedy"><img width="100px" src="https://github.com/catherinekennedy/images/blob/main/linkedin.png"></a>
-<a href="https://www.instagram.com/cather_ine_kenny"><img  src="https://github.com/catherinekennedy/images/blob/main/insta.jpg"></a>
- <a href="https://github.com/catherinekennedy"><img  src="https://github.com/catherinekennedy/images/blob/main/github.png"></a>
+ <a href="https://www.linkedin.com/in/catherine-robin-kennedy"><img width="100px" height="100px" src="https://github.com/catherinekennedy/images/blob/main/linkedin.png"></a>
+<a href="https://www.instagram.com/cather_ine_kenny"><img  height="100px" src="https://github.com/catherinekennedy/images/blob/main/insta.jpg"></a>
+ <a href="https://github.com/catherinekennedy"><img  height="100px" src="https://github.com/catherinekennedy/images/blob/main/github.png"></a>
 
 
 
