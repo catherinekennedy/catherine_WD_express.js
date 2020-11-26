@@ -90,8 +90,8 @@ res.send({
 
 <br><hr><br><br>
 # WHAT IS CORE MODULE?
- Core module operate at lower level. They are inbuilt with node.js . So, there is no need to install separately like we do to install nodemon and request in NPM <br>
- [click me](https://nodejs.org/api/modules.html#modules_core_modules) to know more about node core modules
+:bulb: Core module operate at lower level. They are inbuilt with node.js . So, there is no need to install separately like we do to install nodemon and request in NPM <br>
+:bulb: [click me](https://nodejs.org/api/modules.html#modules_core_modules) to know more about node core modules
 
 ### Some of the core modules in node.js are,<br>
 
@@ -108,7 +108,7 @@ res.send({
 :pill: core modules are complex compared to third-party modules,but anyway you don't need internet to install like third-party module
 ### Thus if you like follow me on <br>
 
-[![](https://github.com/catherinekennedy/images/blob/main/githun.png)](https://github.com/catherinekennedy")<br>
+[![](https://github.com/catherinekennedy/images/blob/main/github.png)](https://github.com/catherinekennedy")<br>
 [![](https://github.com/catherinekennedy/images/blob/main/insta.jpg)](https://www.instagram.com/cather_ine_kenny)<br>
 [![](https://github.com/catherinekennedy/images/blob/main/linkedin.png)](https://www.linkedin.com/in/catherine-robin-kennedy)<br>
 
