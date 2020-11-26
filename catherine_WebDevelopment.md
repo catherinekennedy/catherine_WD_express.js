@@ -1,7 +1,7 @@
 # hello :raised_hand: This is Catherine<br> Here we are going to learn the basics of 
 <ol>
 <li>REPL</li>
-<li>enpress.js</li>
+<li>express.js</li>
 <li>Core modules in node.js</li>
 </ol>
 Hope you like :+1: and understand this :stuck_out_tongue_winking_eye:,
@@ -21,20 +21,21 @@ It a simple interactive computer programming environment that takes single user 
 Example:
 <br>
 ````
->$ node<br>
-> 2 + 3<br>
-5<br>
-> console.log(‘hello world’)<br>
-Hello world<br>
+>$ node
+> 2 + 3
+5
+> console.log(‘hello world’)
+Hello world
 >
 ````
 ### OUTPUT::point_down:
 <img src="https://github.com/catherinekennedy/images/blob/main/repl.jpeg?raw=true" >
 
 # INTRO TO EXPRESS.JS:
-*	Express.js is free  :free: open source web application frameworks for node.js .
-*	It is used for designing and building web application :computer: .
-*	It is used to build both static and dynamic web pages.
+:mushroom:	Express.js is free  :free: open source web application frameworks for node.js .<br>
+:mushroom:	It is used for designing and building web application :computer: .<br>
+:mushroom:	It is used to build both static and dynamic web pages.<br>
+
 
 ## How to get started with express.js:
   **Step1 :** you need to install express in your node as it is not a core module.
