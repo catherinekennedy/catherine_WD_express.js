@@ -108,7 +108,7 @@ res.send({
 :pill: core modules are complex compared to third-party modules,but anyway you don't need internet to install like third-party module
 ### Thus if you like follow me on <br>
 
-[![](https://github.com/catherinekennedy/images/blob/main/github.png)](https://github.com/catherinekennedy")<br>
+[![](https://github.com/catherinekennedy/images/blob/main/github.png)](https://github.com/catherinekennedy")
 [![](https://github.com/catherinekennedy/images/blob/main/insta.jpg)](https://www.instagram.com/cather_ine_kenny)<br>
 [![](https://github.com/catherinekennedy/images/blob/main/linkedin.png)](https://www.linkedin.com/in/catherine-robin-kennedy)<br>
 
