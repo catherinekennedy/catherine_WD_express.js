@@ -108,8 +108,9 @@ res.send({
 core modules are complex compared to third-party modules,but anyway you dont need internet to install like third-party module
 ### Thus if you like follow me on <br>
 <a herf="https://github.com/catherinekennedy"><img src="https://github.com/catherinekennedy/images/blob/main/githun.png" width="100px" height="100px"></a><br>
-<a herf="https://www.instagram.com/cather_ine_kenny"><img src="https://github.com/catherinekennedy/images/blob/main/insta.jpg"  height="100px"></a><br>
-<a herf="www.linkedin.com/in/catherine-robin-kennedy"><img src="https://github.com/catherinekennedy/images/blob/main/linkedin.png"  height="100px"></a>
+[![DevIncept logo image link](https://github.com/catherinekennedy/images/blob/main/insta.jpg)](https://www.instagram.com/cather_ine_kenny)<br>
+[![DevIncept logo image link](https://github.com/catherinekennedy/images/blob/main/linkedin.png)](www.linkedin.com/in/catherine-robin-kennedy)<br>
+
 
 
 
