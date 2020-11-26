@@ -9,17 +9,16 @@ Hope you like :+1: and understand this :stuck_out_tongue_winking_eye:,
 
 # 	INTRO TO REPL:
 #### REPL is nothing but <b> read–eval–print -loop </b>.
-It a simple interactive computer programming environment that takes single user inputs, executes them, and returns the result to the user
+It a simple interactive computer programming environment that takes single user inputs, executes them, and returns the result to the user 
 
-•	The <b>read</b> function accepts an expression from the user, and parses it into a data .For example 2+3
+:key:	The <b>read</b> function accepts an expression from the user, and parses it into a data .For example 2+3<br>
 
-•	The <b>eval</b> function takes this internal data structure and evaluates it. function + is called on the arguments 2 and 3, yielding the result 5.
+:key:	The <b>eval</b> function takes this internal data structure and evaluates it. function + is called on the arguments 2 and 3, yielding the result 5.<br>
 
-•	  The <b>print</b> function takes the result yielded by eval, and prints it out to the user. If it is a complex expression, it may be pretty-printed to make it easier to understand
+:key:	  The <b>print</b> function takes the result yielded by eval, and prints it out to the user. If it is a complex expression, it may be pretty-printed to make it easier to understand<br>
 
-•	The development environment then returns to the read state, creating a <b>loop</b>, which terminates when the program is closed.
-Example:
-<br>
+:key:	The development environment then returns to the read state, creating a <b>loop</b>, which terminates when the program is closed.<br>
+###### Example:<br>
 ````
 >$ node
 > 2 + 3
@@ -43,7 +42,7 @@ Hello world
    
    > npm i express@4.16.4
  
- now the version 4.16.4 is installed in node.js<br>
+:pill: now the version 4.16.4 is installed in node.js<br>
 **step2 :** then ,code your program as <br>
 
  ````` const express=require(‘express’)
@@ -91,7 +90,8 @@ res.send({
 
 <br><hr><br><br>
 # WHAT IS CORE MODULE?
-<p> Core module operate at lower level. They are inbuilt with node.js . So, there is no need to install separately like we do to install nodemon and request in NPM </p><br>
+ Core module operate at lower level. They are inbuilt with node.js . So, there is no need to install separately like we do to install nodemon and request in NPM <br>
+ [click me](https://nodejs.org/api/modules.html#modules_core_modules) to know more about node core modules
 
 ### Some of the core modules in node.js are,<br>
 
