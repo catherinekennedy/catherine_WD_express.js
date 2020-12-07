@@ -6,18 +6,20 @@ Hope you like :+1: and understand this :stuck_out_tongue_winking_eye:,
 
 
 # 	INTRO TO node-auth-Guard:
-#### node-auth-Guard makes use of CanActivate interface and it checks for if the user is logged in or not. If it returns true, then the execution for the requested route will continue, and if it returns false, that the requested route will be kicked off and the default route will be shown..
+#### node-auth-Guard makes use of CanActivate interface and it checks for if the user is logged in or not. If it returns true, then the execution for the requested route will continue, and if it returns false, then the requested route will be kicked off and the default route will be shown..
 Now we can consider an example of an <b>Movie streaming platform</b> like Amazon prime, Netflix, Hotstar..etc thats works with auth guard .
+
 :key:In the example,the user should subscribe or recharge the account to get access to the homepage,
+
 :key: Then the user should be above the age of  18 to watch certain movies or shows.
 ## How to get started with node-auth-Guard:
-  **Step1 :** you need to install express in your node as it is not a core module.
+  **Step1 :** You need to install express and node-auth-guard in your node as it is not a core module.
    
    > npm i express@4.16.4 <br>
    > npm i node-auth-guard@2.4.0 <br>
  
 :pill: now the version 4.16.4 of express and 2.4.0 version of node-auth-guard  is installed in node.js<br>
-**step2 :** then ,code your program as <br>
+**step2 :** Then , Code your program as <br>
 
  ````` 
  const express=require(‘express’)
