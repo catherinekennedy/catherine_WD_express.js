@@ -90,7 +90,7 @@ app.listen(4000);
    ## you have made ..thumbs up:trophy:  congrats :raised_hands:
 
  ## :memo: Explanation :
- * To get to know more about express [click me](https://github.com/catherinekennedy/catherine_WD_express.js/blob/main/catherine_WebDevelopment.md)
+ * To get to know more about express [click me](https://github.com/catherinekennedy/catherine_WD_node.js/blob/main/catherine_WD_express.md)
 * Now define a user  with following properties such as name, surname, age and subscribtion.
 * Then initialize the user.
 * With the help of express.js create a localhost server \home and \movie
