@@ -9,7 +9,7 @@ Hope you like :+1: and understand this :stuck_out_tongue_winking_eye:,
 #### node-auth-Guard makes use of CanActivate interface and it checks for if the user is logged in or not. If it returns true, then the execution for the requested route will continue, and if it returns false, then the requested route will be kicked off and the default route will be shown..
 Now we can consider an example of an <b>Movie streaming platform</b> like Amazon prime, Netflix, Hotstar..etc thats works with auth guard .
 
-:key:In the example,the user should subscribe or recharge the account to get access to the homepage,
+:key: In the example,the user should subscribe or recharge the account to get access to the homepage,
 
 :key: Then the user should be above the age of  18 to watch certain movies or shows.
 ## How to get started with node-auth-Guard:
@@ -18,7 +18,7 @@ Now we can consider an example of an <b>Movie streaming platform</b> like Amazon
    > npm i express@4.16.4 <br>
    > npm i node-auth-guard@2.4.0 <br>
  
-:pill: now the version 4.16.4 of express and 2.4.0 version of node-auth-guard  is installed in node.js<br>
+:pill: Now the version 4.16.4 of express and 2.4.0 version of node-auth-guard  is installed in node.js<br>
 **step2 :** Then , Code your program as <br>
 
  ````` 
@@ -87,19 +87,19 @@ app.listen(4000);
 >http://localhost:4000/movie <br>
    to see your output.
    
-   ## you have made :thumbsup.:trophy:  congrats :raised_hands:
+   ## you have made ..thumbs up:trophy:  congrats :raised_hands:
 
  ## :memo: Explanation :
  * To get to know more about express [click me](https://github.com/catherinekennedy/catherine_WD_express.js/blob/main/catherine_WebDevelopment.md)
 * Now define a user  with following properties such as name, surname, age and subscribtion.
-* Now initialize the user .
+* Then initialize the user.
 * With the help of express.js create a localhost server \home and \movie
-* In http\\localhost:4000\home
+* In http://localhost:4000/home
      it checks whether the user has subscribed or not . If not, it throws an error or else it shows the following output: <br> 
 ### THUS THE FINAL OUTPUT::point_down:
 <img src="https://github.com/catherinekennedy/images/blob/main/home%20.png" >
 
-* In http\\localhost:4000\movie
+* In http://localhost:4000/movie
     it checks whether the user is above 18. If yes, it shows the output  or else it shows the following error: <br> 
     
 ### THUS THE FINAL OUTPUT::point_down:
