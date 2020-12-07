@@ -41,3 +41,10 @@ Hope you like :+1: and understand this :stuck_out_tongue_winking_eye:
  
    ## :old_key: Thus the final output :
    <img src="https://github.com/catherinekennedy/images/blob/main/debug4.png" >
+   
+   ### :computer: Thus if you like follow me on  :computer:<br>
+  <a href="https://www.linkedin.com/in/catherine-robin-kennedy"><img width="100px" height="100px" src="https://github.com/catherinekennedy/images/blob/main/linkedin.png"></a>
+<a href="https://www.instagram.com/cather_ine_kenny"><img  height="100px" src="https://github.com/catherinekennedy/images/blob/main/insta.jpg"></a>
+ <a href="https://github.com/catherinekennedy"><img  height="100px" src="https://github.com/catherinekennedy/images/blob/main/github.png"></a>
+
+
