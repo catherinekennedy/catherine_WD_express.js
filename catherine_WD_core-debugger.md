@@ -38,6 +38,8 @@ Hope you like :+1: and understand this :stuck_out_tongue_winking_eye:
 > watch('result')
 
    <img src="https://github.com/catherinekennedy/images/blob/main/debug3.png" >
+   
+ :pill: In this output it shows undefined as it is executed before the result is defined.  
  
    ## :old_key: Thus the final output :
    <img src="https://github.com/catherinekennedy/images/blob/main/debug4.png" >
